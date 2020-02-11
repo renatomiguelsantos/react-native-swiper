@@ -1,3 +1,4 @@
+<h1>FORKED VERSION 1.5.14 FROM THE MAIN REPOSITORY TO ADD THE UNSAFE_ PREFIX TO THE DEPRECATED LIFECYCLES METHODS TO AVOID WARNINGS</h1>
 <p align="center">
   <img alt="react-native-swiper" src="http://i.imgur.com/P4cRUgD.png" width="208">
 </p>
